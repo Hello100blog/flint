@@ -1,5 +1,7 @@
 # Flint
 
+[![Join the chat at https://gitter.im/Hello100blog/flint](https://badges.gitter.im/Hello100blog/flint.svg)](https://gitter.im/Hello100blog/flint?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Check your project for common sources of contributor friction.
 
 ### Install
